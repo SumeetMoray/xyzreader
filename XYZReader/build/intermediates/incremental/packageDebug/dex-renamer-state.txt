@@ -1,0 +1,7 @@
+#Thu Aug 04 03:21:09 IST 2016
+base.0=/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec0724536769df537dd5ba93899f34ab8cdb42d1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1999db9874c395ffe75a523a755acf883256004/classes.dex
+base.1=/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1999db9874c395ffe75a523a755acf883256004
+file.0=/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec0724536769df537dd5ba93899f34ab8cdb42d1/classes.dex

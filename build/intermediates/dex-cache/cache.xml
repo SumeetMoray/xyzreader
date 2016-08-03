@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sumeet/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9e616ad9777b41396ed6517b049b507f6a1262fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_818c4c1006b319b758f13bfb48d2d0171023c540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/developmentFolder/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_d345764de0df17df65847e8f31b7c42eec9195af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_dd50a322aab26637d5699552a38bb15030db85a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_47e98603181702c9667edf153f665a4cc49343ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_eac0cb85ce115b63b485c4581203c263f88c0e27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="7443362887a290e32be7d6fbeb4f82fbbbab2110">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1999db9874c395ffe75a523a755acf883256004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_11dddc52b5951385841f5e2551b9a1e2f9234473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_8f7769992dd90cd24e1e402aab8633bf069108d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_a9f9cc82b5dc8ff9a72e8e79b7871e71ef2d41e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c9ac4af977da6e47e3257bc5cc84cbf8e55cdc24">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec0724536769df537dd5ba93899f34ab8cdb42d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_8d3f118d62dcf66d711b2c9cbe2d447da9c1f592/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_213402efe72c2d312368a28b52baf917eafe7d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sumeet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_c6394fcf498fddac360fbafbaf1e13e2670fbb6b/classes.dex" />
+    </item>
+
+</items>
