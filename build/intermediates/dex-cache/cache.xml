@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
-        sha1="f411ed2bbfc4cedf296f7f8f64ae0e9c42be0670">
+        sha1="30067bde0ca84d90e168aefc5daab9ca867a4181">
         <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec0724536769df537dd5ba93899f34ab8cdb42d1/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
-        sha1="19062f595301ffa95cd4849b76373106cbf221f1">
+        sha1="013666cae345eae15fbe05cff7c533d8debd50f8">
         <dex dex="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1999db9874c395ffe75a523a755acf883256004/classes.dex" />
     </item>
     <item

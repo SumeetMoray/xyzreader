@@ -1,4 +1,4 @@
-#Thu Aug 04 11:27:58 IST 2016
+#Fri Aug 05 04:23:08 IST 2016
 base.0=/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec0724536769df537dd5ba93899f34ab8cdb42d1
 renamed.1=classes.dex
 renamed.0=classes2.dex
