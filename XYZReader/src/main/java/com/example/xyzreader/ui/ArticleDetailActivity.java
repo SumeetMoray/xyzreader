@@ -77,8 +77,15 @@ public class ArticleDetailActivity extends ActionBarActivity
             }
         });
 
+
         mUpButtonContainer = findViewById(R.id.up_container);
 
+        Toolbar toolbar = (Toolbar) findViewById(R.id.action_up);
+
+        setSupportActionBar(toolbar);
+
+
+/*
         mUpButton = findViewById(R.id.action_up);
         mUpButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -86,9 +93,10 @@ public class ArticleDetailActivity extends ActionBarActivity
                 onSupportNavigateUp();
             }
         });
+*/
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            mUpButtonContainer.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
+           /* mUpButtonContainer.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
                 @Override
                 public WindowInsets onApplyWindowInsets(View view, WindowInsets windowInsets) {
                     view.onApplyWindowInsets(windowInsets);
@@ -97,7 +105,7 @@ public class ArticleDetailActivity extends ActionBarActivity
                     updateUpButtonPosition();
                     return windowInsets;
                 }
-            });
+            });*/
         }
 
         if (savedInstanceState == null) {
@@ -148,8 +156,8 @@ public class ArticleDetailActivity extends ActionBarActivity
     }
 
     private void updateUpButtonPosition() {
-        int upButtonNormalBottom = mTopInset + mUpButton.getHeight();
-        mUpButton.setTranslationY(Math.min(mSelectedItemUpButtonFloor - upButtonNormalBottom, 0));
+//        int upButtonNormalBottom = mTopInset + mUpButton.getHeight();
+//        mUpButton.setTranslationY(Math.min(mSelectedItemUpButtonFloor - upButtonNormalBottom, 0));
     }
 
     private class MyPagerAdapter extends FragmentStatePagerAdapter {
