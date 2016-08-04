@@ -62,9 +62,9 @@ public class ArticleDetailActivity extends ActionBarActivity
             @Override
             public void onPageScrollStateChanged(int state) {
                 super.onPageScrollStateChanged(state);
-                mUpButton.animate()
-                        .alpha((state == ViewPager.SCROLL_STATE_IDLE) ? 1f : 0f)
-                        .setDuration(300);
+//                mUpButton.animate()
+//                        .alpha((state == ViewPager.SCROLL_STATE_IDLE) ? 1f : 0f)
+//                        .setDuration(300);
             }
 
             @Override
@@ -73,16 +73,16 @@ public class ArticleDetailActivity extends ActionBarActivity
                     mCursor.moveToPosition(position);
                 }
                 mSelectedItemId = mCursor.getLong(ArticleLoader.Query._ID);
-                updateUpButtonPosition();
+//                updateUpButtonPosition();
             }
         });
 
 
-        mUpButtonContainer = findViewById(R.id.up_container);
-
-        Toolbar toolbar = (Toolbar) findViewById(R.id.action_up);
-
-        setSupportActionBar(toolbar);
+//        mUpButtonContainer = findViewById(R.id.up_container);
+//
+//        Toolbar toolbar = (Toolbar) findViewById(R.id.action_up);
+//
+//        setSupportActionBar(toolbar);
 
 
 /*

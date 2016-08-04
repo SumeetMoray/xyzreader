@@ -8,16 +8,16 @@
         "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim/design_snackbar_out.xml"
+        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
@@ -48,12 +48,12 @@
         "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_slide_out_top.xml"
-    },
-    {
         "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
         "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",

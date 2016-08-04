@@ -4,29 +4,29 @@
     api-level="23"
     density="hdpi"
     format="8"
-    timestamp="13955556066885"
+    timestamp="32846193964061"
     token="-151853314805532816"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="423" />
+        duration="503" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="71" />
+        duration="337" />
     <task
         name="verifier"
-        duration="20" />
+        duration="26" />
 
     <artifact
         location="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="13955556066885"
+        timestamp="32846193964061"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/media/sumeet/data/udacity/xyz_reader/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
